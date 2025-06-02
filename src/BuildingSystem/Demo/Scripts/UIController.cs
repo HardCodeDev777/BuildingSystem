@@ -1,8 +1,10 @@
 using UnityEngine;
 using TMPro;
 
-namespace HardCodeDev.BuildingSystem
+namespace HardCodeDev.Examples
 {
+    using HardCodeDev.BuildingSystem;
+
     public class UIController : MonoBehaviour
     {
         [SerializeField] private TMP_Text _modeText, _buildingText;
