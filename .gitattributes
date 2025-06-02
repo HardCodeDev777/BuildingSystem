@@ -1,2 +1,6 @@
 BuildingSystem/src/Demo/** linguist-vendored
 BuildingSystem/src/Imports/** linguist-vendored
+*.hlsl linguist-vendored
+*.shader linguist-vendored
+*.shadergraph linguist-vendored
+*.cginc linguist-vendored
